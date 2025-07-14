@@ -75,7 +75,7 @@
 
 				<sage language="r">
 					<input>
-					<c>myFamName &lt;- c("Dad","Mom","Sis","Bro","Dog")</c>
+					myFamName &lt;- c("Dad","Mom","Sis","Bro","Dog")
 					</input>
 				</sage>
 
@@ -101,7 +101,7 @@
 
 				<sage language="r">
 					<input>
-					<c>myFamAge &lt;- c(43, 42, 12, 8, 5)</c>
+					myFamAge &lt;- c(43, 42, 12, 8, 5)
 					</input>
 				</sage>
 
